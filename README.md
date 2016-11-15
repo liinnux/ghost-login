@@ -3,8 +3,8 @@
 Specifically designed to solve the crawler to collect data related to the site when the data simulation, verification code automatic identification problem; welcome to join together to develop and improve.
 
 #使用帮助详见
-*1[EliteQing](http://www.cnblogs.com/liinux)
-*2[Tigerxue](https://github.com/tigerxue)
+* 1 [EliteQing](http://www.cnblogs.com/liinux)
+* 2 [Tigerxue](https://github.com/tigerxue)
 ## 模拟登录一些常见的网站
 
 
