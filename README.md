@@ -3,16 +3,16 @@
 Specifically designed to solve the crawler to collect data related to the site when the data simulation, verification code automatic identification problem; welcome to join together to develop and improve.
 
 #使用帮助详见
-* 1 [EliteQing](http://www.cnblogs.com/liinux)
-* 2 [Tigerxue](https://github.com/tigerxue)
+* [EliteQing](http://www.cnblogs.com/liinux)
+* [Tigerxue](https://github.com/tigerxue)
 ## 模拟登录一些常见的网站
 
 
 主要基于以下的 Java的第三 library 
-1. [httpclient](http://hc.apache.org/downloads.cgi) HTTP请求以及响应
-2. [Selenium](http://docs.seleniumhq.org/download/) 模拟自动登录
-3. [tesseract-ocr](https://github.com/tesseract-ocr) 验证码识别
-4. [bouncycastle](http://www.bouncycastle.org/) 加密解密
+* 1. [httpclient](http://hc.apache.org/downloads.cgi) HTTP请求以及响应
+* 2. [Selenium](http://docs.seleniumhq.org/download/) 模拟自动登录
+* 3. [tesseract-ocr](https://github.com/tesseract-ocr) 验证码识别
+* 4. [bouncycastle](http://www.bouncycastle.org/) 加密解密
 
 ## Done
 1. [百度](https://www.baidu.com)(已经实现)
