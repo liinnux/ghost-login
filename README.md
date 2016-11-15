@@ -17,7 +17,7 @@
 * 4. [bouncycastle](http://www.bouncycastle.org/) 加密解密
 
 ## Done
-1.[X] [百度](https://www.baidu.com)(已经实现)
+[X] [百度](https://www.baidu.com)(已经实现)
 2. [豆瓣](https://accounts.douban.com/login?redir=https://m.douban.com/)(待实现)
 3. [京东](http://www.jd.com/)(已经实现)
 4. [淘宝](https://www.taobao.com/)(还有点问题)
