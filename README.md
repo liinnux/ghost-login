@@ -1,14 +1,14 @@
 #Ghost-login
 专门用来解决爬虫采集相关网站数据时模拟登录，验证码自动识别的问题；欢迎加入一起开发完善。
 Specifically designed to solve the crawler to collect data related to the site when the data simulation, verification code automatic identification problem; welcome to join together to develop and improve.
-
+***
 #使用帮助详见
-* [EliteQing](http://www.cnblogs.com/liinux)
-* [Tigerxue](https://github.com/tigerxue)
+* 1.[EliteQing](http://www.cnblogs.com/liinux)
+* 2.[Tigerxue](https://github.com/tigerxue)
 ## 模拟登录一些常见的网站
 
 
-主要基于以下的 Java的第三 library 
+#主要基于以下的 Java的第三 library 
 * 1. [httpclient](http://hc.apache.org/downloads.cgi) HTTP请求以及响应
 * 2. [Selenium](http://docs.seleniumhq.org/download/) 模拟自动登录
 * 3. [tesseract-ocr](https://github.com/tesseract-ocr) 验证码识别
