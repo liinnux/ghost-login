@@ -1,7 +1,10 @@
 #Ghost-login
+专门用来解决爬虫采集相关网站数据时模拟登录，验证码自动识别的问题；欢迎加入一起开发完善。
+Specifically designed to solve the crawler to collect data related to the site when the data simulation, verification code automatic identification problem; welcome to join together to develop and improve.
 
 #使用帮助详见
 [EliteQing](http://www.cnblogs.com/liinux)
+[Tigerxue](https://github.com/tigerxue)
 ## 模拟登录一些常见的网站
 
 
@@ -58,4 +61,5 @@
 
 ## 交流讨论
 
-1. 开源Java爬虫QQ交流群:322937592
+1. 开源爬虫QQ交流群:322937592
+2. email address: liinux at qq.com
