@@ -5,23 +5,25 @@
 
 ***
 
-#主要基于以下的 Java的第三方library 
+#主要基于以下第三方lib及技术 
 * 1. [httpclient](http://hc.apache.org/downloads.cgi) HTTP请求以及响应
-* 2. [Selenium](http://docs.seleniumhq.org/download/) 模拟自动登录
-* 3. [tesseract-ocr](https://github.com/tesseract-ocr) 验证码识别
-* 4. [bouncycastle](http://www.bouncycastle.org/) 加密解密
+* 2. [selenium](http://docs.seleniumhq.org/download/) 模拟自动登录
+* 3. [bouncycastle](http://www.bouncycastle.org/) 加密解密
+* 4. [tesseract-ocr](https://github.com/tesseract-ocr) 验证码Tesseract识别
+* 5. [captcha-Recognize](http://blog.csdn.net/problc/article/details/5794460)验证码LibSVM识别
 
 ##模拟登录一些常见的网站Done
-1. [百度](https://www.baidu.com)(已经实现)
-2. [豆瓣](https://accounts.douban.com/login?redir=https://m.douban.com/)(待实现)
-3. [京东](http://www.jd.com/)(已经实现)
-4. [淘宝](https://www.taobao.com/)(还有点问题)
-5. [支付宝](https://www.alipay.com/)(还有点问题)
-6. [新浪微博](https://passport.weibo.cn/signin/login?entry=mweibo&res=wel&wm=3349&r=http%3A%2F%2Fm.weibo.cn%2F%3Fjumpfrom%3Dwapv4%26tip%3D1) (已经实现)
-5. [新浪邮箱](http://mail.sina.com.cn/)(待实现)
-5. [QQ邮箱](https://mail.qq.com/cgi-bin/loginpage)(待实现)
-7. [QQ微博](http://w.t.qq.com/touch) (已经实现)
-8. [知乎](https://www.zhihu.com/#signin)(还有点问题)
+1. **[百度](https://www.baidu.com)(已实现)**
+2. **[QQ微博](http://w.t.qq.com/touch) (已实现)**
+3. **[知乎](https://www.zhihu.com/#signin)(已实现)**
+4. **[京东](http://www.jd.com/)(已实现)**
+5. **[新浪微博](https://passport.weibo.cn/signin/login?entry=mweibo&res=wel&wm=3349&r=http%3A%2F%2Fm.weibo.cn%2F%3Fjumpfrom%3Dwapv4%26tip%3D1) (已经实现)**
+6. ~~[新浪邮箱](http://mail.sina.com.cn/)(待实现)~~
+7. ~~[QQ邮箱](https://mail.qq.com/cgi-bin/loginpage)(待实现)~~
+8. ~~[豆瓣](https://accounts.douban.com/login?redir=https://m.douban.com/)(待实现)~~
+9. ~~[淘宝](https://www.taobao.com/)(还有点问题)~~
+10. ~~[支付宝](https://www.alipay.com/)(还有点问题)~~
+
 
 ##Todolist
 0. **重构代码，增加可扩展性**
@@ -47,9 +49,9 @@
 
 ## 除责申明
 
-1. 本开源项目仅为技术交流，严禁用于其他任何违法犯罪行为;
-2. 若本项目侵犯相关网站权益，请及时联系；
+1. 本开源项目仅为技术交流此一目的，严禁用于其他任何商业、违法犯罪、恶意攻击等行为；
 3. 若第三者用此项目侵犯相关网站权益，一切责任自负；
+2. 若本项目侵犯相关网站、个人，组织机构权益，请及时联系；
 
 ## 使用帮助
 * 1.[eliteqing](http://www.cnblogs.com/liinux)
